@@ -1,3 +1,4 @@
+/*
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 import java.util.List;
@@ -23,3 +24,5 @@ public class ApiResponse<T> {
         this.results = results;
     }
 }
+
+ */
